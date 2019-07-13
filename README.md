@@ -11,14 +11,14 @@ Core Data – Provides additional support on top of the object mapper for mappin
 
 Using cocoapods
 
-$ sudo gem install cocoapods
-$ pod setup
-$ cd /path/to/RestKitDemo
-$ touch Podfile
-$ [edit] Podfile (using your preferred editor; vim, nano, etc)
-platform :ios, '12.0'
-pod 'RestKit'
-$ pod install
+$ sudo gem install cocoapods  
+$ pod setup  
+$ cd /path/to/RestKitDemo  
+$ touch Podfile  
+$ [edit] Podfile (using your preferred editor; vim, nano, etc)  
+platform :ios, '12.0'  
+pod 'RestKit'  
+$ pod install  
 
-Here you go!!!! You have successfully install Restkit framework in your project.
+Here you go!!!! You have successfully install Restkit framework in your project.  
 
